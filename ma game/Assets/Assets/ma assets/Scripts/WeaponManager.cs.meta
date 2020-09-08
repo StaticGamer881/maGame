@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22d627111ffb01f4399f731ba42a0307
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wepParent: {fileID: 2586818753238050469, guid: 1219f8ec09235874f875e4206bae77bc,
+      type: 3}
+  - bulletHolePrefab: {fileID: 7378304393248391829, guid: fc51819844cff4b47b63f66f7a9d6cef,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
